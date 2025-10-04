@@ -3,7 +3,7 @@ body{
 }
 h1{
   background-color: #008000;
-  margin-left: 40%;
+  float: centre;
   font-size:250%;
 }
 h2{
