@@ -1,6 +1,9 @@
 body{
   
 }
+section{
+  margin: 5%;
+}
 h1{
   background-color: #008000;
   float: centre;
