@@ -6,12 +6,12 @@ section{
 }
 h1{
   background-color: #008000;
-  float: centre;
+  float:centre;
   font-size:250%;
 }
 h2{
   font-size: 200%;
-  float:centre;
+  
 }
 p{
   font-size: 175%;
