@@ -14,9 +14,9 @@ h2{
 }
 p{
   font-size: 175%;
+  float:left;
 }
 img{
-  float: right;
   background-color: #555;
 }
 #EnterpriseIrelandLogo{
