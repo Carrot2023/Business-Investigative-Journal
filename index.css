@@ -16,7 +16,7 @@ p{
   font-size: 175%;
 }
 img{
-  float: left;
+  float: right;
   background-color: #555;
 }
 #EnterpriseIrelandLogo{
@@ -24,10 +24,10 @@ img{
   height: 15%;
 }
 #MicrofinanceIrelandLogo{
-  width: 10%;
-  height: 40%;
+  width: 20%;
+  height: 65%;
 }
 #NationalEnterpriseHubLogo {
-  width:5%;
-  height:8%;
+  width:10%;
+  height:20%;
 }
