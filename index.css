@@ -20,17 +20,7 @@ p{
 img{
   margin-top:3%;
   margin-bottom:3%;
-  float:right;
-}
-#EnterpriseIrelandLogo{
-  width: 20%;
-  height: 15%;
-}
-#MicrofinanceIrelandLogo{
-  width: 20%;
-  height: 65%;
-}
-#NationalEnterpriseHubLogo {
+  float:left;
   width:200px;
   height:150px;
 }
