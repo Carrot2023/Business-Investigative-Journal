@@ -3,21 +3,23 @@ body{
 }
 section{
   margin: 5%;
-  float: centre;
 }
 h1{
   background-color: #008000;
-  float: centre;
+  margin: auto;
   font-size:250%;
 }
 h2{
   font-size: 200%;
+  margin: auto;
   
 }
 p{
   font-size: 175%;
+  margin: auto;
 }
 img{
   width:200px;
   height:150px;
+  margin: auto;
 }
